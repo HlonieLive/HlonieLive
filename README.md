@@ -31,7 +31,7 @@ Feel free to check out my repositories, and don't hesitate to reach out if you'r
 ---
 
 ## 📊 **GitHub Stats:**
-![Lehlohonolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![HlonieLive's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HlonieLive&show_icons=true&theme=radical)
 
 ## 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&margin-w=4)
