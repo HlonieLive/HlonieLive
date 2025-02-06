@@ -36,5 +36,12 @@ Feel free to check out my repositories, and don't hesitate to reach out if you'r
 ## 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 🧠 **Favorite Quotes**
+## 🧠 **Inspirational Quotes**
 
+"The only way to do great work is to love what you do." — Steve Jobs
+
+"Experience is simply the name we give to our mistakes." — Oscar Wilde
+
+
+## Thanks
+Thank you for visiting my profile! 😊 Let's connect and keep on building awesome projects.
