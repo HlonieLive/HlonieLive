@@ -1,6 +1,4 @@
-# About me.
-
-### Hi there!
+# Hi there!
 
 Welcome to my GitHub profile! I am Lehlohonolo, a passionate developer with a love for creating innovative and efficient solutions. Whether I am building full-stack applications, diving into machine learning, or experimenting with new technologies, I am always eager to learn and grow as a developer.
 
