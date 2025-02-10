@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I am Lehlohonolo, a passionate developer with an ambition to create innovative and efficient solutions. Whether I am building full-stack applications, diving into machine learning, or experimenting with new technologies, I am always eager to learn and grow as a developer.
 
-On this GitHub, you'll find my personal projects, open-source contributions, and anything else I create to share with the community. I believe in clean, readable code and continuously improving my skills, and I enjoy collaborating with others to build amazing things.
+On this GitHub, you will find my personal projects, open-source contributions, and anything else I create to share with the community. I believe in clean, readable code and continuously improving my skills, and I enjoy collaborating with others to build amazing projects.
 
-Feel free to check out my repositories, and don't hesitate to reach out if you're interested in collaborating or discussing cool tech ideas! Let's build something great together! 
+Feel free to check out my repositories, and don't hesitate to reach out if you are interested in collaborating or discussing cool tech ideas! Let's build great innovative and impactful projects together! 
 
 📫 **Let's connect!** Feel free to reach out to me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lehlohonolo-tshabalala-b81657266/) 
