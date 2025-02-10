@@ -1,6 +1,6 @@
 # Hi everyone!
 
-Welcome to my GitHub profile! I am Lehlohonolo, a passionate developer with a love for creating innovative and efficient solutions. Whether I am building full-stack applications, diving into machine learning, or experimenting with new technologies, I am always eager to learn and grow as a developer.
+Welcome to my GitHub profile! I am Lehlohonolo, a passionate developer with an ambition to create innovative and efficient solutions. Whether I am building full-stack applications, diving into machine learning, or experimenting with new technologies, I am always eager to learn and grow as a developer.
 
 On this GitHub, you'll find my personal projects, open-source contributions, and anything else I create to share with the community. I believe in clean, readable code and continuously improving my skills, and I enjoy collaborating with others to build amazing things.
 
