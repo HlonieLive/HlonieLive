@@ -50,4 +50,4 @@ Feel free to check out my repositories, and don't hesitate to reach out if you a
 
 
 ## Thanks
-Thank you for visiting my profile! 😊 Let's connect and keep on building awesome projects.
+Thank you for visiting my profile! 😊 Let's connect and keep on building and innovating awesome projects.
