@@ -25,6 +25,7 @@ Feel free to check out my repositories, and don't hesitate to reach out if you a
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Terminal Treasure Hunt](https://img.shields.io/badge/Linux-Commands-Practice?style=for-the-badge&logo=linux&color=orange)
 
 ---
 
